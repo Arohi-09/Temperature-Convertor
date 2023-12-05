@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+form {
+    display: inline-block;
+}
+
+input[type="number"] {
+    width: 100px;
+}
+
+button {
+    margin-left: 10px;
+}
